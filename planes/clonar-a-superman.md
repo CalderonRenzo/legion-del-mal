@@ -39,6 +39,7 @@ Mystique es la mayor experta de la Legión en suplantación de identidad. Aunque
 - [ ] Brainiac supervisa el proceso genético kryptoniano
 - [ ] Acelerar el crecimiento del clon a 30 días
 - [ ] Implante de memorias: Loki usa magia para copiar los recuerdos de Superman
+- [ ] planes xzzzz
 
 ### Fase 3 - Entrenamiento del clon
 
