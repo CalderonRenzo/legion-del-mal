@@ -9,7 +9,7 @@
 
 ## otras historias de villanos
 
-heloooooooooo!
+Good Bye
 
 ## mas HU de viallanos
 !!!
