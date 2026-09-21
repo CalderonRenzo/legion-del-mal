@@ -21,7 +21,7 @@ Un solo disparo del rayo criogénico reduce la temperatura de una ciudad de 1 mi
 - **Thor** — Control climático que podría contrarrestar el rayo congelador.
 - **Iron Man** — Tiene armaduras espaciales. Podría interceptar el satélite.
 - **Green Lantern** — Opera en el espacio. Podría detectar el lanzamiento.
-
+- **Thanos** - End Game villian
 ## Contramedidas anti-héroes
 
 | Héroe         | Contramedida                                                   | Responsable |
