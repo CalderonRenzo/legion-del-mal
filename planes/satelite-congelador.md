@@ -17,7 +17,7 @@ Un solo disparo del rayo criogénico reduce la temperatura de una ciudad de 1 mi
 
 ## Amenazas principales !!!
 
-- **Superman** — Puede destruir el satélite en órbita. Es la amenaza #1 de esta misión.
+- **Superman** — Puede destruir el satélite en órbita. Es la amenaza #1 de esta misión. !!!!!
 - **Thor** — Control climático que podría contrarrestar el rayo congelador.
 - **Iron Man** — Tiene armaduras espaciales. Podría interceptar el satélite.
 - **Green Lantern** — Opera en el espacio. Podría detectar el lanzamiento.
