@@ -22,6 +22,8 @@ Un solo disparo del rayo criogénico reduce la temperatura de una ciudad de 1 mi
 - **Iron Man** — Tiene armaduras espaciales. Podría interceptar el satélite.
 - **Green Lantern** — Opera en el espacio. Podría detectar el lanzamiento.
 - **Thanos** - End Game villian
+- **Dr Doom** - Hechicero Fuerte
+
 ## Contramedidas anti-héroes
 
 | Héroe         | Contramedida                                                   | Responsable |
